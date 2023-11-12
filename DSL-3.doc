@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#DSL-3] Como o usuário deseja acessar o login na loja virtual, visualizando os tipos de login, cadastro e redefinição de senha.</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://desafiodioqamari.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [DSL-3]&nbsp;<a href="https://desafiodioqamari.atlassian.net/browse/DSL-3">Como o usuário deseja acessar o login na loja virtual, visualizando os tipos de login, cadastro e redefinição de senha.</a>
+            <span class="subText">
+               Criado: 12/nov/23                   &nbsp;Atualizado(a): 12/nov/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Em andamento</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://desafiodioqamari.atlassian.net/secure/BrowseProject.jspa?id=10001">DesafioSwagLab</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:20ee0074-659e-4417-951d-bb9149e7d606"
+                id="word_reporter_70121:20ee0074-659e-4417-951d-bb9149e7d606"
+                href="https://desafiodioqamari.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3A20ee0074-659e-4417-951d-bb9149e7d606">
+                    alvesmari
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Não atribuído
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10002-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ da estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ de Tempo Gasto:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ da Estimativa Original:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Subtarefas:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Chave</b><br/>
+                </td>
+                <td>
+                    <b>Resumo</b><br/>
+                </td>
+                <td>
+                    <b>Tipo</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Responsável</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://desafiodioqamari.atlassian.net/browse/DSL-7">DSL-7</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://desafiodioqamari.atlassian.net/browse/DSL-7">Levantamento e pesquisa de casos de t...</a>
+                    </td>
+                    <td>
+                        Subtarefa
+                    </td>
+                    <td>
+                        Em andamento
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://desafiodioqamari.atlassian.net/browse/DSL-8">DSL-8</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://desafiodioqamari.atlassian.net/browse/DSL-8">Execução de testes manuais</a>
+                    </td>
+                    <td>
+                        Subtarefa
+                    </td>
+                    <td>
+                        Tarefas pendentes
+                    </td>
+                    <td>
+                                                     &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10002-value" class="value" bgcolor="#ffffff" width="80%">      0|i00007:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10002-value" class="value" bgcolor="#ffffff" width="80%">quadro Sprint 1</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story point estimate:</b></td>
+                <td id="customfield_10016-10002-value" class="value" bgcolor="#ffffff" width="80%">    8
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li><b>Valor:</b> A autenticação de usuários na loja virtual é importante para que os clientes possam se cadastrar na plataforma e fazer suas compras com segurança. Essa funcionalidade visa unificar o fluxo de acesso ao site, permitindo que o usuário possa realizar um cadastro na loja virtual, fazer o login ou redefinir sua senha, caso a tenha  esquecido.</li>
+	<li><b>Narrativa do usuário:</b></li>
+</ol>
+
+
+<p>                        <b>Como</b> cliente</p>
+
+<p>                        <b>Eu quero</b> acessar a página de login do usuário</p>
+
+<p>                        <b>Para</b> visualizar as opções de cadastro, login e redefinição de senha na loja virtual.</p>
+
+<p>3. <b>Requisitos</b></p>
+
+<ul>
+	<li>Atores: Cliente</li>
+	<li>Interface: Ver documento em anexo a UI/UX</li>
+	<li>Dados:
+	<ul>
+		<li>Criação de banco de dados/tabelas para armazenar os dados dos clientes cadastrados.</li>
+		<li>Criação de API para integração com front-end e banco criado.</li>
+		<li>Criação de tela de login para permitir que usuário acesse a página de cadastro de usuário, página de login e página de redefinição de senha.</li>
+	</ul>
+	</li>
+	<li>Plataforma/Ambientes:
+	<ul>
+		<li>Web/Web Mobile.</li>
+		<li>Devem ser configurados ambientes e pipelines para desenvolvimento, homologação de usuário, homologação QA e produção.</li>
+	</ul>
+	</li>
+	<li>Critérios de aceite:
+	<ul>
+		<li>Usuário deverá visualizar formulário para realizar o login e acessar a loja virtual.</li>
+		<li>Usuário deverá visualizar botão para acessar tela de cadastro do sistema.</li>
+		<li>Usuário deverá visualizar botão para acessar tela “Esqueci minha senha”.</li>
+	</ul>
+	</li>
+</ul>
+
+
+
+
+<p>OU</p>
+
+<ol>
+	<li>Cenário: Cliente sem cadastro deseja criar uma conta</li>
+</ol>
+
+
+<p>Dado que o cliente esteja na tela de login</p>
+
+<p>E não esteja cadastrado no sistema</p>
+
+<p>Quando clica em “Criar Conta”</p>
+
+<p>Então será redirecionado para a tela de cadastro de usuário.</p>
+
+
+
+<p>2. Cenário: Cliente sem cadastro deseja fazer login</p>
+
+<p>Dado que o cliente esteja na tela de login</p>
+
+<p>E adicione um <em>username</em> não cadastrado</p>
+
+<p>Quando clicar em “Fazer Login”</p>
+
+<p>Então uma mensagem surgirá informando que a conta não existe</p>
+
+
+
+<p>3. Cenário: Cliente cadastrado informa senha de acesso incorreta</p>
+
+<p>Dado que o cliente esteja na tela de login</p>
+
+<p>E adicione um <em>username</em> correto</p>
+
+<p>Mas escreva uma senha incorreta</p>
+
+<p>Quando clicar em “Fazer Login”</p>
+
+<p>Então uma mensagem surgirá avisando que a senha está incorreta</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Sun Nov 12 21:46:08 UTC 2023 por alvesmari usando JIRA 1001.0.0-SNAPSHOT#100241-sha1:32fc677dc61e5d7ac8852a7cc7da9150a8885094.
+
+</body>
+</html>

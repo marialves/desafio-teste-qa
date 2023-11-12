@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#DSL-6] Como o usuário deseja preencher os campos para redefinição de senha.</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://desafiodioqamari.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [DSL-6]&nbsp;<a href="https://desafiodioqamari.atlassian.net/browse/DSL-6">Como o usuário deseja preencher os campos para redefinição de senha.</a>
+            <span class="subText">
+               Criado: 12/nov/23                   &nbsp;Atualizado(a): 12/nov/23
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Tarefas pendentes</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://desafiodioqamari.atlassian.net/secure/BrowseProject.jspa?id=10001">DesafioSwagLab</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:20ee0074-659e-4417-951d-bb9149e7d606"
+                id="word_reporter_70121:20ee0074-659e-4417-951d-bb9149e7d606"
+                href="https://desafiodioqamari.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3A20ee0074-659e-4417-951d-bb9149e7d606">
+                    alvesmari
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Não atribuído
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10005-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10005-value" class="value" bgcolor="#ffffff" width="80%">      0|i0000v:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10005-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story point estimate:</b></td>
+                <td id="customfield_10016-10005-value" class="value" bgcolor="#ffffff" width="80%">    5
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <ol>
+	<li><b>Valor:</b> A redefinição de senha para usuários na loja virtual é importante para que os clientes possam retomar o acesso à loja virtual em caso de perda de senha. Essa funcionalidade visa facilitar o acesso de um usuário já cadastrado na loja virtual, sem ser necessária a realização de um novo cadastro.</li>
+	<li><b>Narrativa do usuário:</b></li>
+</ol>
+
+
+<p>                <b>Como</b> cliente</p>
+
+<p>                <b>Eu quero</b> acessar a página de redefinição de senha</p>
+
+<p>                <b>Para</b> visualizar as opções de redefinição de senha na loja virtual.</p>
+
+
+
+<p>3. <b>Requisitos</b></p>
+
+<ul>
+	<li>Atores: Cliente</li>
+	<li>Interface: Ver documento em anexo a UI/UX</li>
+	<li>Dados:
+	<ul>
+		<li>Criação de banco de dados/tabelas para armazenar os dados dos clientes cadastrados.</li>
+		<li>Criação de API para integração com front-end e banco criado.</li>
+		<li>Criação de tela de login para permitir que usuário acesse a página de cadastro de usuário, página de login e página de redefinição de senha.</li>
+	</ul>
+	</li>
+	<li>Plataforma/Ambientes:
+	<ul>
+		<li>Web/Web Mobile.</li>
+		<li>Devem ser configurados ambientes e pipelines para desenvolvimento, homologação de usuário, homologação QA e produção.</li>
+	</ul>
+	</li>
+	<li>Critérios de aceite:
+	<ul>
+		<li>Usuário deverá visualizar formulário para realizar a redefinição de senha e acessar a loja virtual.</li>
+		<li>Usuário deverá visualizar botão para acessar tela de login.</li>
+		<li>Usuário deverá visualizar botão para acessar tela “Criar Conta”.</li>
+	</ul>
+	</li>
+</ul>
+
+
+<p> </p>
+
+<p>OU</p>
+
+<ol>
+	<li>Cenário: Cliente com cadastro deseja redefinir senha</li>
+</ol>
+
+
+<p>Dado que o cliente esteja na tela de redefinir senha</p>
+
+<p>E esteja cadastrado no sistema</p>
+
+<p>Quando informa os dados necessários e clica em “Redefinir Senha”</p>
+
+<p>Então será redirecionado para a tela de login, com um <em>pop-up</em> informando que a senha foi redefinida.</p>
+
+<p> </p>
+
+<ol>
+	<li>Cenário: Cliente sem cadastro deseja redefinir senha</li>
+</ol>
+
+
+<p>Dado que o cliente esteja na tela de refeinir senha</p>
+
+<p>E adicione um <em>username</em> não cadastrado</p>
+
+<p>Quando clicar em “Redefinir Senha”</p>
+
+<p>Então uma mensagem surgirá informando que a conta não existe</p>
+
+<p> </p>
+
+<ol>
+	<li>Cenário: Cliente cadastrado informa nova senha de acesso fraca</li>
+</ol>
+
+
+<p>Dado que o cliente esteja na tela de redefinir senha</p>
+
+<p>E adicione os dados corretos</p>
+
+<p>Mas escreva uma senha fraca</p>
+
+<p>Quando clicar em “Redefinir Senha”</p>
+
+<p>Então uma mensagem surgirá avisando que a nova senha é fraca</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Sun Nov 12 21:48:15 UTC 2023 por alvesmari usando JIRA 1001.0.0-SNAPSHOT#100241-sha1:32fc677dc61e5d7ac8852a7cc7da9150a8885094.
+
+</body>
+</html>

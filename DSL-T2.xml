@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10001</projectId>
+    <projectKey>DSL</projectKey>
+    <exportDate>2023-11-12 22:06:49 UTC</exportDate>
+    <folders/>
+    <testCases>
+        <testCase id="111995092" key="DSL-T2">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>alvesmari</createdBy>
+            <createdOn>2023-11-12 21:41:43 UTC</createdOn>
+            <customFields/>
+            <issues>
+                <issue>
+                    <key>DSL-4</key>
+                    <summary><![CDATA[Como o usuário deseja preencher os campos para cadastro na loja virtual.]]></summary>
+                </issue>
+            </issues>
+            <labels/>
+            <name><![CDATA[Funcionalidade cadastro]]></name>
+            <objective><![CDATA[Testar a funcionalidade da tela de cadastro]]></objective>
+            <owner>70121:20ee0074-659e-4417-951d-bb9149e7d606</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="plain">
+                <details><![CDATA[<ol><li><p>Cliente sem cadastro deseja criar uma conta</p></li><li><p>Cliente sem cadastrado deseja criar conta com <em>username</em> j&aacute; cadastrado</p></li><li><p>Cliente sem cadastrado deseja criar conta com <em>e-mail&nbsp;</em>j&aacute; cadastrado</p></li></ol>]]></details>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>

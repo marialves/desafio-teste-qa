@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10001</projectId>
+    <projectKey>DSL</projectKey>
+    <exportDate>2023-11-12 22:06:17 UTC</exportDate>
+    <folders/>
+    <testCases>
+        <testCase id="111995059" key="DSL-T1">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>alvesmari</createdBy>
+            <createdOn>2023-11-12 21:25:43 UTC</createdOn>
+            <customFields/>
+            <issues>
+                <issue>
+                    <key>DSL-3</key>
+                    <summary><![CDATA[Como o usuário deseja acessar o login na loja virtual, visualizando os tipos de login, cadastro e redefinição de senha.]]></summary>
+                </issue>
+            </issues>
+            <labels/>
+            <name><![CDATA[Funcionalidade Login]]></name>
+            <objective><![CDATA[Verificar funcionalidade da tela de login]]></objective>
+            <owner>70121:20ee0074-659e-4417-951d-bb9149e7d606</owner>
+            <priority><![CDATA[High]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="plain">
+                <details><![CDATA[<ol><li>Cliente sem cadastro deseja criar uma conta</li><li>Cliente sem cadastro deseja fazer login</li><li>Cliente cadastrado informa senha de acesso incorreta </li></ol>]]></details>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>
